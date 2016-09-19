@@ -1,0 +1,33 @@
+{
+  "name": "open-init",
+  "version": "0.0.2",
+  "description": "React脚手架",
+  "main": "bin/open-init.js",
+  "bin": {
+    "open-init": "bin/open-init.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "inquirer": "^1.1.3",
+    "vinyl-fs": "^2.4.3",
+    "which": "^1.2.11",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dai-shun/open-init.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "daishun (daishun9@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dai-shun/open-init/issues"
+  },
+  "homepage": "https://github.com/dai-shun/open-init#readme"
+}
