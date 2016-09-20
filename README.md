@@ -6,18 +6,18 @@
 
 ----
 
-## Feature
+## 特点
 
 - 一行命令生成基于webpack的开发环境
 - 支持ES2015
 
-## Install
+## 安装 
 
 ```bash
 $ npm i open-init -g
 ```
 
-## Usage
+## 使用 
 搭建一个普通的React+Redux开发环境
 
 ```bash
@@ -25,13 +25,15 @@ $ mkdir React-Demo && cd React-Demo
 $ open-init -n
 ```
 
-Start development server.
+启动开发环境 
 
 ```bash
 $ npm start
 ```
+http://127.0.0.1:3000
 
-Build.
+
+编译
 
 ```bash
 $ npm run build
