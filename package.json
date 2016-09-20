@@ -1,6 +1,6 @@
 {
   "name": "open-init",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React脚手架",
   "main": "bin/open-init.js",
   "bin": {
