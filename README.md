@@ -30,7 +30,8 @@ $ open-init -n
 ```bash
 $ npm start
 ```
-访问开发环境  
+访问开发环境
+
 http://127.0.0.1:3000
 
 
